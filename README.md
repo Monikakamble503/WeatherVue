@@ -1,8 +1,6 @@
-# React + Vite
+WeatherVue App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Developed a dynamic weather application, Weathervue, utilizing React and Tailwind CSS.
+-Integrated a weather API to display current weather conditions and forecast for the next 6 days.
+-Implemented responsive backgrounds that change based on the weather conditions, enhancing user experience.
+-Focused on delivering real-time, accurate weather data and predictions with a clean, intuitive interface.
